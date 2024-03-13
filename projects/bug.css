@@ -1,0 +1,177 @@
+
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column; /* Adjust the body to organize content vertically */
+}
+
+h1 {
+  color: white;
+  height:70px;
+  text-align: center;
+  }
+
+h2 {
+  color: white;
+  height: 50px;
+  text-align: center;
+  white-space: no-wrap !important;
+}
+
+.parent-container {
+  display: flex;
+  text-align: left;
+  width: 100vw;
+  height: 70vh; /* Adjust based on your preference */
+}
+
+.left-container, .right-container {
+  flex: 1;
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  align-items: left;
+  flex-direction: column;
+}
+
+.right-container {
+  justify-content:baseline;
+  margin-left: 50px;
+  text-align: left;
+  align-items: left;
+  position: relative;
+}
+
+.centered-div {
+  background-color: #000;
+  width: 20vw;
+  height: 70vh;
+  position: relative;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.close-x {
+  position: absolute;
+  top: 2%;
+  left: 1%;
+  cursor: pointer;
+}
+
+.logo {
+
+  max-width: 25vw;
+  max-height: 40vh;
+  position: relative;
+  top: 0%;
+
+}
+
+.google-sign-in, .apple-sign-up, .create-account, .account-signIn {
+  margin: 10px 0;
+  cursor: pointer;
+  height: 50px;
+  width: 300px;
+  max-width: 300px;
+  max-height: 50px;
+  border-radius: 50px;
+}
+
+.googleIcon, .appleIcon {
+
+  max-height: 20px;
+  max-width: 20px;
+  width: auto;
+
+}
+
+.or-break {
+  margin: 20px 0;
+  color: white;
+  position:static;
+  align-items:last baseline;
+}
+
+.yeahboy  {
+color: white;
+
+}
+a {
+  color: lightblue;
+  text-decoration: none;
+}
+
+.login-prompt {
+  margin-top: 20px;
+}
+
+
+footer {
+  width: 100vw;
+  padding: 20px 0;
+  color: #000; /* Text color */
+}
+
+.footer-content, .footer-bottom {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer-content a, .footer-bottom a {
+  color: lightblue;
+  text-decoration: none;
+  margin: 0 10px; /* Adjust spacing */
+}
+
+.footer-bottom {
+  margin-top: 10px; /* Space between the two footer rows */
+} 
+
+
+
+
+
+/*Virus Alert*/
+.virus-alert {
+  position: fixed;
+  width: 200px;
+  height: 100px;
+  background-color: #fff;
+  padding: 20px;
+  border: 2px solid red;
+  z-index: 1000;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 3px 3px #888888;
+}
+
+.virus-alert img {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.minimize, .exit {
+  position: absolute;
+  top: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  padding: 2px 5px;
+  background-color: lightgrey;
+}
+
+.minimize {
+  right: 30px;
+}
+
+.exit {
+  right: 5px;
+}
