@@ -1,0 +1,35 @@
+/* login page background photo */
+body{
+    background-image: url(livecomedy.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+/* login page container password/email styling */
+
+/* login page Signin verbage styling */
+.Us{
+    color: rgba(0, 255, 255, 0.955);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    background-color: rgba(200, 200, 199, 0.905);
+    border-radius: 0cap;
+    
+ 
+   
+}
+.Image{
+    text-align: center;
+}
+ 
+.DisplayText{
+    align-items: center;
+    color: rgb(25, 224, 224);
+    background-color: azure;
+    text-align: center;
+}

@@ -1,3 +1,4 @@
+
 **Zakai Meghoo-Peddie**
 
 _Ocala, Florida_
@@ -13,7 +14,7 @@ Favorite Artists
 
 Dream job: Tennis Coach 
 
-IMG_0204.jpg 
+IMG_0204.jpg
 
 To change my life for the better. I've seen firsthand how tech continues to improve the world and I want to have an impact that makes my community around me elevate.
 
