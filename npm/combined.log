@@ -1,0 +1,142 @@
+{"body":{"list":[{"todo":"go to lunch"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:43:50.208Z"}
+{"body":{"list":[{"todo":"go to lunch"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:45:26.649Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:45:32.816Z"}
+{"body":{},"endpoint":"/todo/1","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/1"},"query_parameters":{},"timestamp":"2024-04-05T14:45:37.544Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:47:35.958Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:47:36.909Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:47:41.373Z"}
+{"body":{},"endpoint":"/todo/2","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T14:47:58.583Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:48:03.988Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T14:48:25.766Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:48:30.230Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T14:48:44.474Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:48:47.594Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:50:13.716Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:51:02.097Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:51:02.941Z"}
+{"body":{},"endpoint":"/todo/9","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/9"},"query_parameters":{},"timestamp":"2024-04-05T14:51:22.512Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:53:15.590Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:53:30.523Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:53:33.762Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:53:50.966Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:54:15.768Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:54:17.680Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:54:23.923Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:54:26.159Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:57:08.716Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T14:57:17.373Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo/2","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:00:24.872Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:00:28.035Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo/2","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:00:48.445Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:00:51.577Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:00:51.857Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo/2","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:01:12.620Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo/2","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:01:14.523Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo/2","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:01:26.417Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo/2","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:01:27.351Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:01:32.715Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:01:48.987Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:01:55.543Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:01:56.252Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:01:59.049Z"}
+{"body":{},"endpoint":"/todo/12","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/12"},"query_parameters":{},"timestamp":"2024-04-05T15:02:32.145Z"}
+{"body":{},"endpoint":"/todo/10","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/10"},"query_parameters":{},"timestamp":"2024-04-05T15:02:37.217Z"}
+{"body":{},"endpoint":"/todo/9","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/9"},"query_parameters":{},"timestamp":"2024-04-05T15:02:41.554Z"}
+{"body":{},"endpoint":"/todo/8","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/8"},"query_parameters":{},"timestamp":"2024-04-05T15:02:43.759Z"}
+{"body":{},"endpoint":"/todo/7","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/7"},"query_parameters":{},"timestamp":"2024-04-05T15:02:46.840Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:02:49.998Z"}
+{"body":{},"endpoint":"/todo/11","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/11"},"query_parameters":{},"timestamp":"2024-04-05T15:02:57.843Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:03:02.922Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:24:34.258Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:24:40.021Z"}
+{"body":{},"endpoint":"/todo/16","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/16"},"query_parameters":{},"timestamp":"2024-04-05T15:25:14.887Z"}
+{"body":{},"endpoint":"/todo/16","error":400,"ip":"::1","level":"info","message":"Todo with that id not found","method":"DELETE","path_paramters":{"id":"16"},"query_parameters":{},"timestamp":"2024-04-05T15:25:14.894Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:25:20.513Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:25:23.794Z"}
+{"body":{},"endpoint":"/todo/10","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/10"},"query_parameters":{},"timestamp":"2024-04-05T15:25:31.876Z"}
+{"body":{},"endpoint":"/todo/10","error":400,"ip":"::1","level":"info","message":"Todo with that id not found","method":"DELETE","path_paramters":{"id":"10"},"query_parameters":{},"timestamp":"2024-04-05T15:25:31.877Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:25:37.608Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:25:42.343Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:25:47.867Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:25:50.521Z"}
+{"body":{},"endpoint":"/todo/12","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/12"},"query_parameters":{},"timestamp":"2024-04-05T15:26:02.158Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:26:07.930Z"}
+{"body":{},"endpoint":"/todo/11","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/11"},"query_parameters":{},"timestamp":"2024-04-05T15:26:12.599Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:26:15.487Z"}
+{"body":{},"endpoint":"/todo/10","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/10"},"query_parameters":{},"timestamp":"2024-04-05T15:26:25.471Z"}
+{"body":{},"endpoint":"/todo/9","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/9"},"query_parameters":{},"timestamp":"2024-04-05T15:26:28.621Z"}
+{"body":{},"endpoint":"/todo/8","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/8"},"query_parameters":{},"timestamp":"2024-04-05T15:26:32.006Z"}
+{"body":{},"endpoint":"/todo/7","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/7"},"query_parameters":{},"timestamp":"2024-04-05T15:26:36.621Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:28:11.998Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T15:28:18.643Z"}
+{"body":{},"endpoint":"/todo/5","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/5"},"query_parameters":{},"timestamp":"2024-04-05T15:28:22.652Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:28:26.924Z"}
+{"body":{},"endpoint":"/todo/4","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/4"},"query_parameters":{},"timestamp":"2024-04-05T15:28:33.726Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:29:34.168Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:29:40.846Z"}
+{"body":{},"endpoint":"/todo/2","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/2"},"query_parameters":{},"timestamp":"2024-04-05T15:29:47.647Z"}
+{"body":{},"endpoint":"/todo/1","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/1"},"query_parameters":{},"timestamp":"2024-04-05T15:29:51.328Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:29:57.365Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:30:01.659Z"}
+{"body":{},"endpoint":"/todo/13","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/13"},"query_parameters":{},"timestamp":"2024-04-05T15:30:16.956Z"}
+{"body":{},"endpoint":"/todo/15","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/15"},"query_parameters":{},"timestamp":"2024-04-05T15:30:20.816Z"}
+{"body":{},"endpoint":"/todo/16","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/16"},"query_parameters":{},"timestamp":"2024-04-05T15:30:22.792Z"}
+{"body":{},"endpoint":"/todo/13","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/13"},"query_parameters":{},"timestamp":"2024-04-05T15:30:24.529Z"}
+{"body":{},"endpoint":"/todo/13","error":400,"ip":"::1","level":"info","message":"Todo with that id not found","method":"DELETE","path_paramters":{"id":"13"},"query_parameters":{},"timestamp":"2024-04-05T15:30:24.529Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:30:28.100Z"}
+{"body":{},"endpoint":"/todo/14","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/14"},"query_parameters":{},"timestamp":"2024-04-05T15:30:33.597Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:30:37.515Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:41:25.219Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:41:28.417Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:41:41.128Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:41:43.156Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:41:46.146Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:48:34.814Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:48:37.159Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:48:41.508Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T15:50:42.583Z"}
+{"body":{},"endpoint":"/todo/3","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/3"},"query_parameters":{},"timestamp":"2024-04-05T15:50:44.554Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:20:17.013Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:20:19.770Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:20:22.572Z"}
+{"body":{},"endpoint":"/todo/4","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/4"},"query_parameters":{},"timestamp":"2024-04-05T17:23:37.515Z"}
+{"body":{},"endpoint":"/todo/4","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/4"},"query_parameters":{},"timestamp":"2024-04-05T17:23:39.524Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:23:46.846Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:45:06.910Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:45:12.396Z"}
+{"body":{},"endpoint":"/todo/9","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo/9"},"query_parameters":{},"timestamp":"2024-04-05T17:45:28.192Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:45:34.672Z"}
+{"body":{},"endpoint":"/todo/9","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/9"},"query_parameters":{},"timestamp":"2024-04-05T17:45:39.808Z"}
+{"body":{},"endpoint":"/todo/8","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/8"},"query_parameters":{},"timestamp":"2024-04-05T17:45:44.228Z"}
+{"body":{},"endpoint":"/todo/7","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/7"},"query_parameters":{},"timestamp":"2024-04-05T17:45:46.742Z"}
+{"body":{},"endpoint":"/todo/7","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/7"},"query_parameters":{},"timestamp":"2024-04-05T17:45:47.276Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:45:50.822Z"}
+{"body":{},"endpoint":"/todo/5","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/5"},"query_parameters":{},"timestamp":"2024-04-05T17:46:01.473Z"}
+{"body":{},"endpoint":"/todo/5","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/5"},"query_parameters":{},"timestamp":"2024-04-05T17:46:02.567Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T17:46:15.212Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T17:46:19.980Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:46:24.173Z"}
+{"body":{"list":[{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:46:34.978Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T17:46:38.541Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"PUT","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:14:06.009Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:14:23.848Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:14:29.211Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"PUT","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:14:36.160Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"PUT","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:14:37.494Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:17:36.113Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:17:38.776Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T18:17:47.332Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T18:17:52.615Z"}
+{"body":{},"endpoint":"/todo/6","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/6"},"query_parameters":{},"timestamp":"2024-04-05T18:17:53.578Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:17:58.944Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:19:10.016Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:19:12.359Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:28:39.817Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:28:44.744Z"}
+{"body":{},"endpoint":"/todo/20","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/20"},"query_parameters":{},"timestamp":"2024-04-05T18:28:52.158Z"}
+{"body":{},"endpoint":"/todo/20","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/20"},"query_parameters":{},"timestamp":"2024-04-05T18:28:53.975Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:28:57.728Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:40:43.314Z"}
+{"body":{"list":[{"todo":"go to lunch"},{"todo":"take a break"},{"todo":"Walk Zulu"},{"todo":"Hit the Gym"},{"todo":"Go to the barber"}]},"endpoint":"/todo","ip":"::1","level":"info","method":"POST","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:41:41.128Z"}
+{"body":{},"endpoint":"/todo","ip":"::1","level":"info","method":"GET","path_paramters":{"0":"todo"},"query_parameters":{},"timestamp":"2024-04-05T18:41:43.996Z"}
+{"body":{},"endpoint":"/todo/9","ip":"::1","level":"info","method":"DELETE","path_paramters":{"0":"todo/9"},"query_parameters":{},"timestamp":"2024-04-05T18:43:59.518Z"}
