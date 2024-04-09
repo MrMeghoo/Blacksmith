@@ -1,10 +1,12 @@
 {
   "name": "npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic todo list for keeping track of tasks",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "PGPASSWORD=goodworks17 psql -U postgres -d postgres -a -f ../npm/todo.sql"
   },
   "author": "Zakai Meghoo-Peddie",
   "license": "ISC",

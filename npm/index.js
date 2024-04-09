@@ -246,15 +246,3 @@ app.delete('/todo/:id', (req, res)=> {
 app.listen(3000, ()=> {
     console.log("Server is running on port 3000");
 })
-<<<<<<< HEAD
-=======
-
-//Part 1: Complete part 2 from yesterday's assignment. Check for every case where a hacker could compromise your server. Do not allow bodies in GET requests, 
-// do not all non authorized parameters, do not allow the wrong type for a parameter to be passed.
-// Part 2: Fix the bug in our DELETE endpoint and anywhere else in your groups code where the id of a 
-//task is being associated with the index of an array. i.e using id - 1 to find where in the array the task is present
-
-// 11:16
-// Part 3:
-// Update your PUT endpoint to allow clients to update their task completion status
->>>>>>> Money2
