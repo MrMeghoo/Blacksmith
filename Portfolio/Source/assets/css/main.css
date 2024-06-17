@@ -105,6 +105,8 @@ input, select, textarea {
 		line-height: 1.65em;
 	}
 
+	
+
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -202,6 +204,7 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
+	
 
 	code {
 		background: rgba(144, 144, 144, 0.075);
@@ -269,6 +272,12 @@ input, select, textarea {
 
 		.container.max {
 			width: 100%;
+		}
+
+		#four .icon {
+			font-size: 2rem;
+			margin: 0.5rem;
+
 		}
 
 		@media screen and (max-width: 980px) {
@@ -3105,7 +3114,7 @@ input, select, textarea {
 	body.is-preload #header:after {
 		opacity: 1;
 	}
-
+	
 /* Footer */
 
 	#footer {
