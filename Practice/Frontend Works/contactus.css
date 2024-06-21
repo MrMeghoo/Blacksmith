@@ -1,0 +1,58 @@
+  .container-fluid{
+    margin-bottom: 2rem;
+    font-size: x-large;
+    text-align: center;
+    color: rgb(231, 221, 221);
+    font-weight: 2000;
+  }
+  body {
+    height: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    display: grid;
+    place-items: center;
+    background-image: url("./Images/unsplash1.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 60%;
+  }
+  
+  .h1 {
+    margin-bottom: 2rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 24rem;
+    gap: 1rem;
+  }
+  
+  input,
+  select,
+  textarea {
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.643); 
+    border: 1px solid black;
+    color: black; 
+    font-weight: bold; 
+  }
+  
+
+
+  textarea {
+    height: 6rem;
+  }
+  
+  button {
+    width: 8rem;
+    padding: 1rem;
+    cursor: pointer;
+    background: goldenrod;
+    color: green;
+    font-weight: bold; 
+  }
+  
+  button:hover {
+    background: darkgoldenrod; 
+  }

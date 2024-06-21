@@ -1,0 +1,199 @@
+.navbar-nav {
+    position: relative;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+  }
+
+.main-text {
+    font-size: 62px;
+    margin-top: 62px;
+    margin-bottom: 28px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.main-text div {
+    margin-bottom: 40px;
+}
+
+.underline {
+    border-bottom: 3px solid #000000;
+}
+
+.main-text a {
+    color: #000000;
+}
+
+
+
+.main-image {
+    margin-top: 124px;
+    text-align: center;
+    background: linear-gradient(#ffffff 50%, #030303 50%);
+}
+
+.main img {
+    width: 55%;
+    height: auto;
+    border-radius: 5%;
+    border: 1px solid #ffffff;
+}
+
+.content {
+    padding-top: 50px;
+    background-color: #030303;
+    text-align: center;
+}
+
+.content h1, #message-summary {
+    padding-top: 30px;
+    margin-bottom: 30px;
+    color: #ffffff;
+}
+
+.content h1 {
+    font-size: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#message-summary {
+    font-size: 26px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#video {
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #030303;
+    color: #FF6347;
+    padding-bottom: 96px;
+    margin-bottom: 128px;
+}
+
+.content a:hover {
+    text-decoration: none;
+}
+
+.second-home, .third-home, .fourth-home {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    padding-bottom: 150px;
+}
+
+.second-image, .fourth-image {
+    float: left;
+    max-width: 50%;
+}
+
+.third-image {
+    float: right;
+    padding-left: 80px;
+    max-width: 50%;
+}
+
+#braniac, #woman, #man {
+    width: 100%;
+    border-radius: 2%;
+    
+}
+
+.Second-text, .fourth-text {
+    padding-left: 80px;
+    float: right;
+    max-width: 50%;
+}
+
+.third-text {
+    padding-left: 10px;
+    padding-top: 20px;
+    float: left;
+    max-width: 50%;
+}
+
+.Second-text h1, .third-text h1, .fourth-text h1 {
+    text-align: left;
+    font-weight: 600;
+    font-size: 28px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+
+.Second-text > p, .third-text > p, .fourth-text > p {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    color: #000000;
+}
+
+.Second-text a, .third-text a, .fourth-text a {
+    font-size: 20px;
+    font-weight: 600;
+    padding-right: 80px;
+    padding-bottom: 30px;
+}
+
+.Second-text a p, .third-text a p, .fourth-text a p {
+    color: #FF6347;
+}
+
+.Second-text a:hover, .anxiety-text a:hover, .fourth-text a:hover {
+    text-decoration: none;
+}
+
+.mental-health-emergency {
+    background-color: #E5EBED;
+    padding-top: 64px;
+    padding-bottom: 400px;
+    text-align: center;
+}
+
+.mental-health-emergency  h1 {
+    font-size: 32px;
+    text-align: center;
+    color: #000000;
+    font-weight: 600;
+    padding-bottom: 0px;
+}
+
+.call-emergency, .support-center {
+    width: 40%;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.call-emergency {
+    margin-left: 50px;
+}
+
+.support-center {
+    margin-right: 50px;
+}
+
+.call-emergency h1, .support-center h1 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+.call-emergency a:hover, .support-center a:hover {
+    color: #FF6347;
+    text-decoration: none;
+}

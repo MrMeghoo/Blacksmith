@@ -1,0 +1,15 @@
+{
+  "name": "backend-works",
+  "version": "1.0.0",
+  "main": "mindset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Zakai Meghoo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  }
+}
